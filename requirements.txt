@@ -1,0 +1,16 @@
+streamlit
+pandas
+streamlit-shadcn-ui>=0.1.18
+streamlit_extras
+pygwalker>=0.4.8.3
+
+langchain==0.2.7
+xlrd==2.0.1
+streamlit==1.37.0
+openpyxl==3.1.5
+openai==1.35.13
+langchain-community==0.2.7
+PyPDF2==3.0.1
+langchain_openai==0.1.19
+psycopg2-binary==2.9.9
+pyxlsb==1.0.10
